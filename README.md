@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=AGENTDS&show_icons=true&theme=prussian&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="github stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentds&theme=prussian&layout=compact" />
+
